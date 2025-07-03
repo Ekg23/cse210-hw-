@@ -16,7 +16,7 @@ class Program
             int magicNumber = randomGenerator.Next(1, 100);
 
 
-            int number = 0;
+            int number = -1;
             int count = 0;
 
             while (magicNumber != number)
